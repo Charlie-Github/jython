@@ -1,9 +1,0 @@
-Ming,
-
-I created a java project and added a Python module under the project folder.
-
-Then I add jython.jar to the build path.
-
-In the main function, I also import org.python.util.PythonInterpreter
-
-Then, I can call python from java and let them run.
